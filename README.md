@@ -9,12 +9,7 @@ and a PyCharm Python project.
 ## ⚠️ WARNING: YOU VIEW THESE SOLUTIONS AT YOUR PERIL ⚠️
 ### THIS REPOSITORY IS *NOT* HERE FOR YOU TO CHEAT.
 
-
-
-
-
-
-
+![bunny after a long day of coding](https://media1.tenor.com/images/0c4806eba6c171cbe81f32ffb5f98811/tenor.gif)
 
 ## What is Google Foobar?
 Google Foobar is a not-so-secret, invitation-only series of timed programming challenges by Google, located at https://foobar.withgoogle.com. You can discover an invitation to Google Foobar by googling certain programming-related topics or by snooping through the Google doodles. After enough time (and a little algorithmic luck), Google will present you with Google Foobar with a cool animation on a search page. Google sometimes offers interviews to and hires people who complete Google Foobar.

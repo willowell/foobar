@@ -84,7 +84,6 @@ There are no external dependencies.
 Each problem has its own folder, and each folder has its own `main.py`.
 
 ## Challenges
-----
 ### Level 1
 ----
 #### Solar Doomsday

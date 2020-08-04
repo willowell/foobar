@@ -12,7 +12,9 @@ and a PyCharm Python project.
 ![bunny after a long day of coding](https://media1.tenor.com/images/0c4806eba6c171cbe81f32ffb5f98811/tenor.gif)
 
 ## What is Google Foobar?
-Google Foobar is a not-so-secret, invitation-only series of timed programming challenges by Google, located at https://foobar.withgoogle.com. You can discover an invitation to Google Foobar by googling certain programming-related topics or by snooping through the Google doodles. After enough time (and a little algorithmic luck), Google will present you with Google Foobar with a cool animation on a search page. Google sometimes offers interviews to and hires people who complete Google Foobar.
+Google Foobar is a not-so-secret, invitation-only series of timed programming challenges by Google, located at https://foobar.withgoogle.com. You can discover an invitation to Google Foobar by Googling certain programming-related topics, by snooping through the Google doodles, or by receiving an invitation from someone. After enough time (and a little algorithmic luck), Google will present you with Google Foobar with a cool animation on a search page. Google sometimes offers interviews to and hires people who complete Google Foobar.
+
+![Google Foobar invitation](./Images/google_foobar_invitation.png)
 
 Google Foobar consists of 5 levels. Each level has a number of problems:
 * Level 1 has 1 problem
@@ -29,13 +31,29 @@ Each problem involves a lot of flavour text: it's your job to determine which de
 
 It is even possible to hack on Google Foobar...
 
-For information, please see:
+Since you are limited to Java 8 and Python 2 (both of which are very old!), I recommend you try implementing your solution first in a newer version of Java or Python and then translating it down to Java 8 or Python 2. 
+
+I *highly* recommend you implement your solutions in Python because Python needs much less boilerplate than Java - your attention should be squarely on the algorithms, not on navigating an OOP hierarchy. Python's few higher-order functions and easy-to-make lambdas also lend the language well to these kinds of problems - you can implement your solution quickly with higher-level, declarative, FP-like facilities, saving you precious time.
+
+With all that said, I wish you the best of luck on your journey with Google Foobar!
+May the lambdas be ever in your favour.
+
+For more information, please see:
 https://medium.com/chingu/my-experience-with-the-google-foobar-challenge-and-tips-on-what-to-do-if-you-get-it-9848d31d3d20
 https://medium.com/plutonic-services/things-you-should-know-about-google-foobar-invitation-703a535bf30f
 https://www.quora.com/What-is-Google-Foobar-1
 
 ## How Did I Find Google Foobar?
+I first heard about it on a Discord server. Then, I Googled for information about the challenge; I read the articles I linked above, and I watched a few YouTube videos about it.
 
+I'm surprised Google hasn't invited me earlier! My Google search history is full of stuff like "cppreference std vector", "cppreference concepts", "mdn javascript array", "lodash", "rust traits", "haskell maybe", "functors, applicatives, and monads", "graphql typescript", and so on!
+
+Turns out the secret for me was to Google "python list comprehension". With that, I got the Google Foobar invitation right away.
+
+Beats me why a beginner topic like that would do the trick instead of something more advanced and specialized, like "graphql typescript", but whatever...
+
+Now I get the Google Foobar animation *every time* I Google "python list comprehension"!
+It's become kind of annoying when I am trying to refresh my memory on list comprehensions in Python because the animation distorts the list of results!
 
 ## My Approach
 In general, for these challenges, I wrote the initial implementation in Haskell and then translated that over to Python 3, and then adjusted it for Python 2, which is what Google Foobar accepts. I intend for the Haskell implementation to serve as a specification for the behaviour of the Python 2/3 programs.
@@ -87,3 +105,6 @@ Each problem has its own folder, and each folder has its own `main.py`.
 
 ### Level 5
 ----
+
+## ⚠️ WARNING: YOU VIEW THESE SOLUTIONS AT YOUR PERIL ⚠️
+### THIS REPOSITORY IS *NOT* HERE FOR YOU TO CHEAT.

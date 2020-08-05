@@ -16,7 +16,7 @@ Google Foobar is a not-so-secret, invitation-only series of timed programming ch
 
 ![Google Foobar invitation](./Images/google_foobar_invitation.png)
 
-Google Foobar consists of 5 levels. Each level has a number of problems:
+Google Foobar consists of 9 problems across 5 levels. Each level has a number of problems:
 * Level 1 has 1 problem
 * Level 2 has 2 problems
 * Level 3 has 3 problems
@@ -88,7 +88,9 @@ Each problem has its own folder, and each folder has its own `main.py`.
 ----
 #### Solar Doomsday
 **Completed: 1 June 2020**
+
 Prompt:
+
 ```
 Solar Doomsday
 ==============
@@ -125,7 +127,9 @@ Use verify [file] to test your solution and see how it does. When you are finish
 ----
 #### Lovely Lucky LAMBs
 **Completed: 3 June 2020**
+
 Prompt:
+
 ```
 Lovely Lucky LAMBs
 ==============
